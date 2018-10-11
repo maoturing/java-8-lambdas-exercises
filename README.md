@@ -1,6 +1,7 @@
-java-8-lambdas-exercises
-========================
 
+Java8 函数式编程
+练习、笔记、课后作业
+========================
 This git repository contains support material for the [Java 8 Lambdas](http://tinyurl.com/java8lambdas) book.
 
 Project Structure
@@ -22,8 +23,3 @@ https://github.com/RichardWarburton/java-8-lambdas-exercises/blob/master/src/mai
 The sub-packages then correspond to the chapter number, so the examples for chapter 4 are in
  `com.insightfullogic.java8.examples.chapter4`.
 
-Reporting Issues
-----------------
-
-If you find any issues with the exercises or examples then please submit them via the
-[O'Reilly Errata Page](http://www.oreilly.com/catalog/errata.csp?isbn=0636920030713).

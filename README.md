@@ -2,7 +2,6 @@
 Java8 函数式编程
 练习、笔记、课后作业
 ========================
-This git repository contains support material for the [Java 8 Lambdas](http://tinyurl.com/java8lambdas) book.
 
 Project Structure
 -----------------
